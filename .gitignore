@@ -19,7 +19,7 @@ yarn-error.log*
 **/*.log
 
 # Chặn các thư mục build/dist (kết quả sau khi build)
-**/dist/
+# **/dist/
 **/build/
 **/out/
 
